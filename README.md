@@ -2,6 +2,10 @@
 
 Welcome to the Gesture-based Music Notation System, a user-friendly interface that enables users to input musical notation through gesture recognition.
 
+<div align="center">
+  <img src="screenshot.png" alt="screenshot" width="350" height="400">
+</div>
+
 ## Introduction
 
 This innovative system utilizes a simple graphical user interface (GUI) to interpret gestures into musical notation, making the process of composing music intuitive and interactive.
