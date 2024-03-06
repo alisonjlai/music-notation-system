@@ -29,7 +29,7 @@ To use the system, perform the following steps:
 
 1. Train the gesture recognition model by executing `shapeTrainer.java`.
 
-- Some shapes worthy of training: S-S W-W E-E SW-SW N-N W-S E-S
+- Some shapes worthy of training: `S-S` `W-W` `E-E` `SW-SW` `N-N` `W-S` `E-S`
 
 2. Once training is complete, you can start the music notation editor by running `AppMusicEd.java`
 
