@@ -3,7 +3,7 @@
 Welcome to the Gesture-based Music Notation System, a user-friendly interface that enables users to input musical notation through gesture recognition.
 
 <div align="center">
-  <img src="screenshot.png" alt="screenshot" width="350" height="400">
+  <img src="screenshot.png" alt="screenshot" width="550" height="250">
 </div>
 
 ## Introduction
